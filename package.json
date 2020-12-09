@@ -1,7 +1,7 @@
 {
   "name": "bgio-mongo",
   "version": "1.0.0",
-  "publishConfig":{"registry":"https://registry.npmjs.org/bgio-mongo"},
+  "publishConfig":{"registry":"https://registry.npmjs.org/r3verb"},
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
